@@ -7,5 +7,4 @@
 ### Database
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge) ![SQLite Badge](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=fff&style=for-the-badge) ![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge)
 
-![](https://github-readme-stats.vercel.app/api?username=mcdonaghmichael&theme=github_dark&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mcdonaghmichael&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
