@@ -1,5 +1,5 @@
 ## Programming Languages
-![Java](https://img.shields.io/badge/java-%2354afd1.svg?style=for-the-badge&logo=java&logoColor=white) ![C# Badge](https://img.shields.io/badge/C23-512BD4?logo=csharp&logoColor=fff&style=for-the-badge) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-54afd1?logo=javascript&logoColor=000&style=for-the-badge)
+![Java](https://img.shields.io/badge/java-%2354afd1.svg?style=for-the-badge&logo=java&logoColor=white) ![C# Badge](https://img.shields.io/badge/C-54afd1?logo=csharp&logoColor=fff&style=for-the-badge) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-54afd1?logo=javascript&logoColor=000&style=for-the-badge)
 
 ## Frameworks
 ![Angular Badge](https://img.shields.io/badge/Angular-0F0F11?logo=angular&logoColor=fff&style=for-the-badge) ![Ionic Badge](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=fff&style=for-the-badge) ![.NET Badge](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge)
