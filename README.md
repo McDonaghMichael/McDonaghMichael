@@ -2,7 +2,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C# Badge](https://img.shields.io/badge/C%23-%234a1efc?logo=csharp&logoColor=fff&style=for-the-badge) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-f9fc1e?logo=javascript&logoColor=000&style=for-the-badge)
 
 ### Frameworks
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular Badge](https://img.shields.io/badge/Angular-fc4a1e?logo=angular&logoColor=fff&style=for-the-badge) ![Ionic Badge](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=fff&style=for-the-badge) ![.NET Badge](https://img.shields.io/badge/.NET-4a1efc?logo=dotnet&logoColor=fff&style=for-the-badge) ![ExpressJS Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular Badge](https://img.shields.io/badge/Angular-fc4a1e?logo=angular&logoColor=fff&style=for-the-badge) ![Ionic Badge](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=fff&style=for-the-badge) ![ExpressJS Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ### Database
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge) ![SQLite Badge](https://img.shields.io/badge/SQL-003B57?logo=sqlite&logoColor=fff&style=for-the-badge) ![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
