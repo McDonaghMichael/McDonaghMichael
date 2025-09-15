@@ -26,7 +26,7 @@ AI-powered email scam & phishing detection tool (Python + Go + ONNX)
 
 ## 💻 Tech Stack
 
-### Programming Languages
+### Programming & Scripting Languages
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-f9fc1e?logo=javascript&logoColor=000&style=for-the-badge)
