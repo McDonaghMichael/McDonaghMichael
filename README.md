@@ -1,5 +1,5 @@
 # Hi, I'm Michael 👋
-### Go & Java Enthusiast | AI & DevOps
+### Go, Java & Python
 
 🚀 Currently building **Watchtower** and **Mail Guardian**  
 💻 Open to collaborating on interesting projects  
