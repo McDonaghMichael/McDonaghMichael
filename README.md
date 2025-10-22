@@ -105,13 +105,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mcdonaghmichael01/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mcdonaghmichael551@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?logo=google-chrome&logoColor=white)](https://mcdonagh.xyz)
-
----
-
-> *"Engineering scalable solutions through clean code and robust architecture"*
-
-<div align="center">
-
-### 🚀 **Open to collaborating on innovative projects and software engineering opportunities**
-
-</div>
