@@ -57,16 +57,21 @@
 - Microservices architecture with Go backend and React dashboard
 - Containerized deployment with Docker and Kubernetes
 
-### **Mail Guardian** - AI Email Security
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/mcdonaghmichael/mail-guardian)
-[![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)](https://github.com/mcdonaghmichael/mail-guardian)
-[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://github.com/mcdonaghmichael/mail-guardian)
+### **CustomOS Kernel** - Operating System Kernel from Scratch
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://github.com/yourusername/custom-kernel)
+[![Assembly](https://img.shields.io/badge/Assembly-654FF0?logo=assemblyscript&logoColor=white)](https://github.com/yourusername/custom-kernel)
+[![x86](https://img.shields.io/badge/x86-0071C5?logo=intel&logoColor=white)](https://github.com/yourusername/custom-kernel)
 
-**Machine learning-powered scam and phishing detection**
-- Real-time email analysis using NLP and behavioral patterns
-- Multi-layered detection with 95%+ accuracy on phishing attempts
-- RESTful API architecture with Java Spring Boot backend
-- Modern React frontend with real-time threat dashboard
+**A minimal operating system kernel built from the ground up**
+
+- Custom bootloader written in x86 assembly
+- Memory management with paging and virtual memory support
+- Hardware abstraction layer for CPU, interrupts, and I/O
+- Basic VGA text mode driver for display output
+- Keyboard interrupt handling and input processing
+- Preemptive multitasking with process scheduler
+
+Built with bare metal programming techniques using C and x86 assembly, targeting legacy BIOS systems.
 
 ### **SiteForge** - Modern CMS Platform
 [![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](https://github.com/mcdonaghmichael/siteforge)
